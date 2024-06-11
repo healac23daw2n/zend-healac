@@ -6,19 +6,19 @@ use Laminas\Ldap\Ldap;
 ini_set('display_errors', 0);
 #Dades de la nova entrada
 #
-$uid='usr3';
+$uid='usr4';
 $unorg='usuaris';
-$num_id=7000;
+$num_id=8000;
 $grup=100;
-$dir_pers='/home/usr3';
+$dir_pers='/home/usr4';
 $sh='/bin/bash';
-$cn="nomis aletse";
-$sn='nomis';
+$cn="john aletse";
+$sn='john';
 $nom='aletse';
 $mobil='666778899';
-$adressa='C/Pi,27,1-1';
+$adressa='C/Pi,27,1-2';
 $telefon='934445566';
-$titol='analista';
+$titol='informatico';
 $descripcio='analista de sistemes';
 $objcl=array('inetOrgPerson','organizationalPerson','person','posixAccount','shadowAccount','top');
 #

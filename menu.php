@@ -10,8 +10,9 @@
 		<a href="http://zend-dacomo.fjeclot.net/autent/index.php">Torna a la pàgina inicial</a>
 		<a href="http://zend-dacomo.fjeclot.net/autent/mostrar_dades_usuari.php">Mostrar dades d'usuari</a>
 		<a href="http://zend-dacomo.fjeclot.net/autent/eliminar_usuari.php">eliminar usuari</a>
-		<a href="http://zend-dacomo.fjeclot.net/autent/atributos.php">afegir atributs a l'usuari</a>
+		<a href="http://zend-dacomo.fjeclot.net/autent/modificar_usuari.php">modificar usuari</a>
 		<a href="http://zend-dacomo.fjeclot.net/autent/crear_usr.php">crear usuari</a>
+		
 		
 	</body>
 </html>

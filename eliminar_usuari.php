@@ -1,6 +1,5 @@
 <?php
 require 'vendor/autoload.php';
-use Laminas\Ldap\Attribute;
 use Laminas\Ldap\Ldap;
 
 ini_set('display_errors', 0);

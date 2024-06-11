@@ -12,6 +12,7 @@
 		<a href="http://zend-dacomo.fjeclot.net/autent/eliminar_usuari.php">eliminar usuari</a>
 		<a href="http://zend-dacomo.fjeclot.net/autent/modificar_usuari.php">modificar usuari</a>
 		<a href="http://zend-dacomo.fjeclot.net/autent/crear_usr.php">crear usuari</a>
+		<a href="http://zend-dacomo.fjeclot.net/autent/crear_usr.php">creación usuario</a>
 		
 		
 	</body>

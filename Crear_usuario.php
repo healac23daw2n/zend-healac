@@ -74,7 +74,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 </head>
 <body>
     <h2>Formulario de Creación de Usuario LDAP</h2>
-    <form action="create_user.php" method="post">
+    <form action="Crear_usuario.php" method="post">
         <label for="uid">UID:</label>
         <input type="text" id="uid" name="uid" required><br><br>
 
